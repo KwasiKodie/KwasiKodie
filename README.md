@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kwasi! <br/><a href="https://github.com/KwasiKodie">Remote Sensing Professional</a>, <a href="https://www.linkedin.com/in/kwasi-kodie-121095265/">Data Science Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">😎 Amateur YouTuber 😊</a></h1>
+<h1>Hi, I'm Kwasi! <br/><a href="https://github.com/KwasiKodie">GIS & Remote Sensing Professional</a>, <a href="https://www.linkedin.com/in/kwasi-kodie-121095265/">Data Science Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">😎 Amateur YouTuber 😊</a></h1>
 
 <h2>👨‍💻 Remote Sensing & Data Science Projects:</h2>
 
