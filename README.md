@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kwasi! </h1>
+<h1>Hi, I'm Kwasi! <br/><a href="https://github.com/joshmadakor1">Remote Sensing Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Science Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">😎 Amateur YouTuber 😊</a></h1>
 
-<h2>👨‍💻 Remote Sensing and Data Science:</h2>
+<h2>👨‍💻 Remote Sensing & Data Science Projects:</h2>
 
   - [Solar Energy Potential](https://github.com/KwasiKodie/SolarEnergyPotential)
   - [Building Classification for Disaster Recovery](https://github.com/KwasiKodie/BuildingClassification)
