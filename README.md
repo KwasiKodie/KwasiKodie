@@ -23,7 +23,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/iamgyamfikodie?igsh=eGRtY2JjaGljN2Z3&utm_source=qr
 [linkedin]: https://www.linkedin.com/in/kwasi-kodie-121095265/
 
 
