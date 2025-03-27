@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kwasi! <br/><a href="https://github.com/KwasiKodie">GIS Analyst</a>, <a href="https://www.linkedin.com/in/kwasi-kodie-121095265/">Computer Science Professional</a></h1>
+<h1>Hi, I'm Kwasi! <br/><a href="https://github.com/KwasiKodie">GIS Analyst</a>, <a href="https://www.linkedin.com/in/kwasi-kodie-121095265/">Data Science and Machine Learning Professional</a></h1>
 
 <h2>👨‍💻 GIS & Computer Science Projects:</h2>
 
