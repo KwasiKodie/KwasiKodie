@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kwasi! <br/><a href="https://github.com/KwasiKodie">GIS Analyst</a>, <a href="https://www.linkedin.com/in/kwasi-kodie-121095265/">Data Scientist</a></h1>
+<h1>Hi, I'm Kwasi! <br/><a href="https://github.com/KwasiKodie">GIS Analyst</a>, <a href="https://www.linkedin.com/in/kwasi-kodie-121095265/">Computer Scientist</a></h1>
 
-<h2>👨‍💻 GIS & Data Science Projects:</h2>
+<h2>👨‍💻 GIS & Computer Science Projects:</h2>
 
   - [Solar Energy Potential](https://github.com/KwasiKodie/SolarEnergyPotential)
   - [Building Classification for Disaster Recovery](https://github.com/KwasiKodie/BuildingClassification)
