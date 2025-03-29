@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-- [Esri Training Certificate](https://imgur.com/8QgHJcC)
+- [GIS for Climate Action Certificate](https://imgur.com/8QgHJcC)
 - [British Computing Society](https://www.bcs.org/membership-and-registrations/)
 
 <h2>📺 Popular YouTube Videos</h2>
