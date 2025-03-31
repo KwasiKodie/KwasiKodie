@@ -10,9 +10,9 @@
 - [GIS for Climate Action Certificate](https://imgur.com/8QgHJcC)
 - [British Computing Society](https://www.bcs.org/membership-and-registrations/)
 
-<h2>📺 Popular YouTube Videos</h2>
+<!-- <h2>📺 Popular YouTube Videos</h2>-->
 
-- [Tutorial Selecting Solar Energy Potential Sites](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <!-- [Tutorial Selecting Solar Energy Potential Sites](https://www.youtube.com/watch?v=a83ASGn_V_s)-->
 
 <h2> 🤳 Connect with me:</h2>
 
