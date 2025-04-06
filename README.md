@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 GIS & Computer Science Projects:</h2>
 
-  - [Solar Energy Potential](https://github.com/KwasiKodie/SolarEnergyPotential)
+  - [Flood Susceptibility](https://github.com/KwasiKodie/Flood Susceptibility Prediction)
   - [Building Classification for Disaster Recovery](https://github.com/KwasiKodie/BuildingClassification)
 
 <h2> Certifications</h2>
